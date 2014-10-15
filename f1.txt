@@ -1,6 +1,1 @@
-hola
-<<<<<<< HEAD
-usu-B
-=======
-usu-A
->>>>>>> 5c1b0e731f645dff52867e0c3b4dd6cab516c869
+editado
